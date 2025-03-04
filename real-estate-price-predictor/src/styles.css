@@ -1,0 +1,131 @@
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Container */
+  .container {
+    width: 90%;
+    max-width: 600px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Heading */
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Form */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  input,
+  select,
+  button {
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  /* Button */
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Prediction Box */
+  .prediction-box {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background: #d4edda;
+    color: #155724;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  .chart-container {
+    margin-top: 20px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .train-btn, .clear-btn {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .train-btn {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .clear-btn {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .train-btn:hover {
+    background-color: #218838;
+  }
+  
+  .clear-btn:hover {
+    background-color: #c82333;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  
+  .prediction-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .prediction-box {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  

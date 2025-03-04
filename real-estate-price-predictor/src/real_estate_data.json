@@ -1,0 +1,1002 @@
+[
+    {
+        "Area (sq ft)":0.1852433281,
+        "Bedrooms":0.25,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.0,
+        "Price (in $1000)":764,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.8383045526,
+        "Bedrooms":0.25,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.9583333333,
+        "Price (in $1000)":673,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6858039919,
+        "Bedrooms":0.75,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.6875,
+        "Price (in $1000)":1051,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.0968827091,
+        "Bedrooms":1.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.6458333333,
+        "Price (in $1000)":462,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.9849742095,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.9791666667,
+        "Price (in $1000)":936,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.7647454586,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5,
+        "Price (in $1000)":924,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.7035209688,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.8125,
+        "Price (in $1000)":817,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.6470060552,
+        "Bedrooms":1.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.9166666667,
+        "Price (in $1000)":711,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.0215294909,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.0,
+        "Price (in $1000)":651,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.3702623907,
+        "Bedrooms":1.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.3125,
+        "Price (in $1000)":826,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.1648351648,
+        "Bedrooms":1.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.7916666667,
+        "Price (in $1000)":508,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.5285938551,
+        "Bedrooms":0.5,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.0833333333,
+        "Price (in $1000)":0.5292792793,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.5380130074,
+        "Bedrooms":1.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.4375,
+        "Price (in $1000)":0.6418918919,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.2579053599,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5833333333,
+        "Price (in $1000)":0.2601351351,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.7515137923,
+        "Bedrooms":1.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.0416666667,
+        "Price (in $1000)":0.7578828829,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.9156761606,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.2291666667,
+        "Price (in $1000)":0.5045045045,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6436420722,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5208333333,
+        "Price (in $1000)":0.5056306306,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.0986768334,
+        "Bedrooms":0.75,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.3125,
+        "Price (in $1000)":0.1756756757,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.2350302758,
+        "Bedrooms":0.25,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.75,
+        "Price (in $1000)":0.0506756757,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.5660461987,
+        "Bedrooms":0.25,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.4375,
+        "Price (in $1000)":0.4527027027,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.4514465127,
+        "Bedrooms":1.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5833333333,
+        "Price (in $1000)":0.5146396396,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.6084323839,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.2708333333,
+        "Price (in $1000)":0.402027027,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.2110338641,
+        "Bedrooms":1.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5625,
+        "Price (in $1000)":0.6891891892,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.3973985198,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.0833333333,
+        "Price (in $1000)":0.7781531532,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.0347611572,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.9583333333,
+        "Price (in $1000)":0.4335585586,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.605516932,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":1.0,
+        "Price (in $1000)":0.3220720721,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6662928908,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.6041666667,
+        "Price (in $1000)":0.6317567568,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.4182552142,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.9375,
+        "Price (in $1000)":0.3018018018,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.276519399,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.0833333333,
+        "Price (in $1000)":0.661036036,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.3350527024,
+        "Bedrooms":0.25,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.2291666667,
+        "Price (in $1000)":0.3592342342,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.7104732003,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.3125,
+        "Price (in $1000)":0.4493243243,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.789863198,
+        "Bedrooms":0.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5208333333,
+        "Price (in $1000)":0.5337837838,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.8647678852,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5208333333,
+        "Price (in $1000)":0.3355855856,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.1372505046,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.9791666667,
+        "Price (in $1000)":0.1227477477,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.6400538237,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.4166666667,
+        "Price (in $1000)":0.661036036,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.5384615385,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.7916666667,
+        "Price (in $1000)":0.7162162162,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.1269342902,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.7291666667,
+        "Price (in $1000)":0.1452702703,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.5223144203,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.6666666667,
+        "Price (in $1000)":0.3164414414,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.4545862301,
+        "Bedrooms":1.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.6041666667,
+        "Price (in $1000)":0.8074324324,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.0464229648,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.75,
+        "Price (in $1000)":0.2939189189,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.4501009195,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.4583333333,
+        "Price (in $1000)":0.6407657658,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6257008298,
+        "Bedrooms":0.5,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.1875,
+        "Price (in $1000)":0.5664414414,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.5781565373,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.0833333333,
+        "Price (in $1000)":0.4414414414,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.2980488899,
+        "Bedrooms":1.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.7291666667,
+        "Price (in $1000)":0.2871621622,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.3238394259,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.6875,
+        "Price (in $1000)":0.0788288288,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.5655976676,
+        "Bedrooms":0.5,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.625,
+        "Price (in $1000)":0.3198198198,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.166180758,
+        "Bedrooms":0.25,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.1875,
+        "Price (in $1000)":0.3130630631,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.8925768109,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.375,
+        "Price (in $1000)":0.7027027027,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.0,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.6458333333,
+        "Price (in $1000)":0.0,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6992599237,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.0,
+        "Price (in $1000)":0.3085585586,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.4308140839,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.0833333333,
+        "Price (in $1000)":0.5022522523,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.3478358376,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.9166666667,
+        "Price (in $1000)":0.0664414414,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.8766539583,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.0625,
+        "Price (in $1000)":0.7849099099,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6815429468,
+        "Bedrooms":0.25,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.3125,
+        "Price (in $1000)":0.5585585586,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.2213500785,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.4791666667,
+        "Price (in $1000)":0.2533783784,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.7685579726,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.3125,
+        "Price (in $1000)":0.6475225225,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.5783808029,
+        "Bedrooms":0.25,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.0208333333,
+        "Price (in $1000)":0.6959459459,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.8542274052,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":1.0,
+        "Price (in $1000)":0.6272522523,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.3287732675,
+        "Bedrooms":0.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5625,
+        "Price (in $1000)":0.2984234234,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.0284817224,
+        "Bedrooms":1.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.6458333333,
+        "Price (in $1000)":0.329954955,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.956043956,
+        "Bedrooms":0.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5416666667,
+        "Price (in $1000)":0.6148648649,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.4366449877,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.3958333333,
+        "Price (in $1000)":0.5619369369,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.2155191747,
+        "Bedrooms":0.5,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.4791666667,
+        "Price (in $1000)":0.3288288288,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.7418703745,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.2291666667,
+        "Price (in $1000)":0.5078828829,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.8441354564,
+        "Bedrooms":0.25,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.7083333333,
+        "Price (in $1000)":0.3941441441,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.2783135232,
+        "Bedrooms":0.25,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.6666666667,
+        "Price (in $1000)":0.2837837838,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.2202287508,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.6666666667,
+        "Price (in $1000)":0.1644144144,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.0679524557,
+        "Bedrooms":1.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.875,
+        "Price (in $1000)":0.5833333333,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.1892801076,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.75,
+        "Price (in $1000)":0.3986486486,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.2336846827,
+        "Bedrooms":0.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.2291666667,
+        "Price (in $1000)":0.5112612613,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.8878672348,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.0416666667,
+        "Price (in $1000)":0.972972973,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.077371608,
+        "Bedrooms":0.25,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.0,
+        "Price (in $1000)":0.0855855856,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.1027136129,
+        "Bedrooms":1.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.6666666667,
+        "Price (in $1000)":0.3310810811,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.4548104956,
+        "Bedrooms":0.75,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.8125,
+        "Price (in $1000)":0.6948198198,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.863422292,
+        "Bedrooms":0.25,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.1875,
+        "Price (in $1000)":0.5957207207,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.0067279659,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.875,
+        "Price (in $1000)":0.1024774775,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.568288854,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.8958333333,
+        "Price (in $1000)":0.2578828829,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.4469612021,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5833333333,
+        "Price (in $1000)":0.2308558559,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.5967705764,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.25,
+        "Price (in $1000)":0.6238738739,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.3276519399,
+        "Bedrooms":1.0,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.2291666667,
+        "Price (in $1000)":0.5585585586,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.0800627943,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.625,
+        "Price (in $1000)":0.3355855856,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.9957389549,
+        "Bedrooms":0.25,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.9375,
+        "Price (in $1000)":0.5810810811,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.7909845257,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.0208333333,
+        "Price (in $1000)":0.4650900901,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.5032518502,
+        "Bedrooms":0.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.7083333333,
+        "Price (in $1000)":0.5608108108,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6873738506,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.4583333333,
+        "Price (in $1000)":0.2522522523,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.037228078,
+        "Bedrooms":0.75,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.3333333333,
+        "Price (in $1000)":0.143018018,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6884951783,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5208333333,
+        "Price (in $1000)":0.5281531532,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.5427225835,
+        "Bedrooms":1.0,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.1458333333,
+        "Price (in $1000)":0.472972973,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.8098228302,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5833333333,
+        "Price (in $1000)":0.6497747748,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.1726844584,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5208333333,
+        "Price (in $1000)":0.5506756757,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.6048441355,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.1875,
+        "Price (in $1000)":0.5788288288,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.6142632877,
+        "Bedrooms":0.5,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.5208333333,
+        "Price (in $1000)":0.7162162162,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.3444718547,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.6875,
+        "Price (in $1000)":0.3941441441,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.5956492487,
+        "Bedrooms":0.5,
+        "Bathrooms":0.5,
+        "Age of Property (years)":0.8333333333,
+        "Price (in $1000)":0.3130630631,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.8535546087,
+        "Bedrooms":0.25,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.125,
+        "Price (in $1000)":0.4290540541,
+        "Location_Downtown":false,
+        "Location_Rural":true,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.2229199372,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.0625,
+        "Price (in $1000)":0.6362612613,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.1049562682,
+        "Bedrooms":0.5,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.9166666667,
+        "Price (in $1000)":0.4853603604,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":1.0,
+        "Bedrooms":0.75,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.2083333333,
+        "Price (in $1000)":1.0,
+        "Location_Downtown":true,
+        "Location_Rural":false,
+        "Location_Suburban":false
+    },
+    {
+        "Area (sq ft)":0.1874859834,
+        "Bedrooms":0.75,
+        "Bathrooms":1.0,
+        "Age of Property (years)":0.5833333333,
+        "Price (in $1000)":0.3941441441,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    },
+    {
+        "Area (sq ft)":0.9988786723,
+        "Bedrooms":0.0,
+        "Bathrooms":0.0,
+        "Age of Property (years)":0.7291666667,
+        "Price (in $1000)":0.5484234234,
+        "Location_Downtown":false,
+        "Location_Rural":false,
+        "Location_Suburban":true
+    }
+]
